@@ -2,7 +2,7 @@
   "name": "health-Plus",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://Uzo24.github.io/Health-Plus",
+  "homepage" : "https://Uzo24.github.io/health-plus",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@fortawesome/free-solid-svg-icons": "^6.4.0",
